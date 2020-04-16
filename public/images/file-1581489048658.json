@@ -1,0 +1,50 @@
+[
+   {
+      "id":"1",
+      "category":"Entertainment",
+      "difficulty":"1",
+      "question_text":"Which music artist released the single 'Gold Digger' in 2005?",
+      "type":"multiple_choice",
+      "answers":[
+         {
+            "answer_a":"Kanye West",
+            "answer_b":"50 Cent",
+            "answer_c":"Drake",
+            "answer_d":"Snoop Dogg",
+            "correct_answer":"a"
+         }
+      ]
+   },
+   {
+      "id":"2",
+      "category":"Entertainment",
+      "difficulty":"2",
+      "question_text":"Brandon Flowers is the lead singer of which US rock band?",
+      "type":"multiple_choice",
+      "answers":[
+         {
+            "answer_a":"The Killers",
+            "answer_b":"Blink-182",
+            "answer_c":"Kings of Leon",
+            "answer_d":"Fallout Boy",
+            "correct_answer":"a"
+         }
+      ]
+   },
+   {
+      "id":"3",
+      "category":"Entertainment",
+      "difficulty":"2",
+      "question_text":"The single 'Yellow' was a huge hit for which of these bands?",
+      "type":"multiple_choice",
+      "answers":[
+         {
+            "answer_a":"Coldplay",
+            "answer_b":"Arctic Monkeys",
+            "answer_c":"The Killers",
+            "answer_d":"Muse",
+            "correct_answer":"a"
+         }
+      ]
+   }
+]
